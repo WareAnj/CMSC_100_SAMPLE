@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello World!
-=======
 Angelica P. Ware 2013-10457
->>>>>>> 42e1894916fce910993688bd22200517f1487dc9
